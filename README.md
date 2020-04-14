@@ -1,7 +1,5 @@
 # ML-from-scrap
 
- This group of ipnyb files are my MLP codings without(or mostly without) any machine learning modules such as pytorch, scikit(other than utilizing the datasets), etc...
+ This group of ipnyb files are my MLP codings without(or mostly without) prebuilt machine learning libraries such as pytorch, scikit(other than utilizing the datasets), etc...
  
- They are my first ML codings to test my understanding of the basic ML process, so I built the codes from scratch, using numpy.
- 
- So...If you wonder why I used something faster and simpler that others have already created, it was just for my practice, nothing more. 
+ If you wonder why I didn't use those elegant faster, and easier to use libraries that others have already created, I just wanted to see if I understood how these basic ML parts work. So I tried avoiding libraries built for ML, and made my own functions from numpy.
